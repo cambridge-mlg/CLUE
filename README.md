@@ -36,7 +36,7 @@ shap  0.28.5
 
 ## Downloading notebooks and PreTrained models
 
-**Due to their large size, our pre-trained models and notebooks, which we use to run all experiments, are available at: https://drive.google.com/file/d/1wZqEUn0TylpSEpKOTRD4kIVOAa3iNb0T/view?usp=sharing**\
+**Due to their large size, our pre-trained models and notebooks, which we use to run all experiments, are available at**: https://drive.google.com/file/d/1wZqEUn0TylpSEpKOTRD4kIVOAa3iNb0T/view?usp=sharing\
 The zip file (4.6GB) will create a folder called notebooks. It contains the notebooks 
 described in the rest of this README as well as the datasets we use and our pre-trained models.
 
